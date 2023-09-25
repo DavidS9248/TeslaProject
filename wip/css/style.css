@@ -1,0 +1,45 @@
+p{
+    font-size: 20px;
+    font-weight: 900;
+    
+}
+
+html{
+    background-color: rgb(243, 238, 238);
+}
+
+span{
+    font-size: 25px;
+}
+
+.tittle1{
+    text-decoration: underline;
+}
+
+.span1{
+    background-color: yellow;
+}
+
+
+span{
+    color:goldenrod;
+}
+
+.divpadre{
+    display: flex;
+    
+}
+
+.divpadre>div{
+    margin: 100px;
+}
+
+.img1{
+    width: 10%;
+    
+}
+
+.divimagen{
+    width: 100%;
+    background-color: #010101;
+}
